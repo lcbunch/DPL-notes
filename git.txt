@@ -7,3 +7,5 @@ to add everything use "git add ."
 then git commit -m "", which records changes to the repository 
 
 then git push it up! 
+
+git checkout -b new_branch_name -- create the new branch and check out 
